@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5vh;
+}
+/* .center-content.img {
+    margin: 5vh;
+} */
