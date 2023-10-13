@@ -8,47 +8,18 @@
     align-items: center;
     margin: 7vh 0;
 }
-.center-content p {
-    margin: 2vh;
-}
-.chapter-2 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 7vh 0;
-}
 
-.chapter-2 p {
-    margin: 2vh;
-}
-.chapter-2 img {
-    border-radius: 10%;
-    margin: 2vh;
-}
-
-.chapter-3 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 7vh 0;
-}
-.chapter-3 p {
-    margin: 2vh 0;
-}
-.chapter-3 img {
-    border-radius: 10%;
-}
-.chapter-4 {
+.chapter {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 8vh 0;
 }
-.chapter-4 p {
+.chapter p {
     width: 60%;
     margin: 2vh 0;
 }
-.chapter-4 img {
+.chapter img {
     border-radius: 10%;
 }
 
