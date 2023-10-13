@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.chapter-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 7vh 0;
+}
+.chapter-4 p {
+    margin: 2vh 0;
+}
+.chapter-4 img {
+    border-radius: 10%;
+}
+
+
+
+
