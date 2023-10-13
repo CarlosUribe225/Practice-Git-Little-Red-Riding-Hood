@@ -1,0 +1,13 @@
+.chapter-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chapter-2 p {
+    margin: 2vh;
+}
+.chapter-2 img {
+    border-radius: 10%;
+    margin: 2vh;
+}
