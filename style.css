@@ -1,13 +1,18 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
 }
 .center-content {
+=======
+.chapter-3 {
+>>>>>>> chapter3
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 7vh 0;
 }
+<<<<<<< HEAD
 
 .center-content p {
     margin: 2vh;
@@ -26,3 +31,11 @@
     border-radius: 10%;
     margin: 2vh;
 }
+=======
+.chapter-3 p {
+    margin: 2vh 0;
+}
+.chapter-3 img {
+    border-radius: 10%;
+}
+>>>>>>> chapter3
